@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Aplikacja ułatwiająca robienie zakupów!
 
 You can use the [editor on GitHub](https://github.com/insomnia1337/Lista_Zakupow/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
