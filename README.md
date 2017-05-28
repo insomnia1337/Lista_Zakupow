@@ -1,2 +1,2 @@
-# Lista_Zakupow
+# Lista zakupów
 All about this application.
