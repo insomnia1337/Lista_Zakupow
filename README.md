@@ -10,6 +10,6 @@ Aplikacja do domowego użytku dla każdego, dotyczy tworzenia listy zakupów pro
 Repozytorium projektu znajduje się [tutaj](https://github.com/Mafyn5/ListaZakupow).
 
 
-Osoby realizujące projekt:
+Osoby realizujące projekt:<br>
 Marcin Dutka, KrDZIs3011Io, 186240
-Mateusz Bieda KrDZIs3011Io, 185868
+<br>Mateusz Bieda KrDZIs3011Io, 185868
