@@ -10,7 +10,7 @@ Aplikacja do domowego użytku dla każdego, dotyczy tworzenia listy zakupów pro
 <br>Repozytorium projektu znajduje się [tutaj](https://github.com/Mafyn5/ListaZakupow).
 
 ## Funkcjonalności aplikacji
-<img src="http://imgur.com/KAyejrQ" />
+<img src="http://i.imgur.com/KAyejrQ.png" />
 
 
 
