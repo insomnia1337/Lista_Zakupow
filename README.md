@@ -8,6 +8,7 @@ Aplikacja do domowego użytku dla każdego, dotyczy tworzenia listy zakupów pro
 - aplikacja umożliwia szybkie wyszukiwanie produktów dzięki dodanej wyszukiwarce produktów.
 Repozytorium projektu znajduje się [tutaj](https://github.com/Mafyn5/ListaZakupow).
 
+<br><h1> Funkcjonalności</h1>
 
 Osoby realizujące projekt:<br>
 Marcin Dutka, KrDZIs3011Io, 186240
