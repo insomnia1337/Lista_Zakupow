@@ -6,7 +6,8 @@ Aplikacja do domowego użytku dla każdego, dotyczy tworzenia listy zakupów pro
 - oczywiście po utworzeniu listy, użytkownik będzie mógł przeglądać tę listę i w czasie zakupów 'odklikać' towar, który umieścił już koszyku,
 - w analizie finansowej obliczona i wyświetlona zostanie średnia cena którą użytkownik wyda na dane zakupy, ilość zakupionych produktów i dzienny koszt zakupów w ciągu miesiąca,
 - aplikacja umożliwia szybkie wyszukiwanie produktów dzięki dodanej wyszukiwarce produktów.
-Repozytorium projektu znajduje się [tutaj](https://github.com/Mafyn5/ListaZakupow).
+
+<br>Repozytorium projektu znajduje się [tutaj](https://github.com/Mafyn5/ListaZakupow).
 
 ## Funkcjonalności aplikacji
 
