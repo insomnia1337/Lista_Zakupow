@@ -16,7 +16,8 @@ Aplikacja do domowego użytku dla każdego, dotyczy tworzenia listy zakupów pro
 
 <img src="http://i.imgur.com/KAyejrQ.png" />
 
-
+## Diagram UML
+<img src="http://i.imgur.com/Z1b0qOf.png" />
 
 Osoby realizujące projekt:<br>
 Marcin Dutka, KrDZIs3011Io, 186240
